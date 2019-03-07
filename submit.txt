@@ -1,0 +1,1 @@
+https://github.com/codefresh-io/docker-service
